@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: ACM NITK Digital Library
+description: One stop solution for each and everyone who are interested in different topics.
